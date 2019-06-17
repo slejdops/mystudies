@@ -1,0 +1,5 @@
+[run]
+include = mystudies/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
